@@ -1,6 +1,6 @@
 # gpt-4o-mini-tts Text to Speech Demo
 
-[![image](https://github.com/user-attachments/assets/86177d5c-3cb2-49cd-9da7-a4262ab85200)](https://youtu.be/VtTS1snT0jU){:target="_blank"}
+[![image](https://github.com/user-attachments/assets/86177d5c-3cb2-49cd-9da7-a4262ab85200)](https://youtu.be/VtTS1snT0jU)
 
 This repository contains two Python scripts demonstrating the use of OpenAI's GPT-4o-mini-TTS (Text-to-Speech) model running on Azure OpenAI:
 
