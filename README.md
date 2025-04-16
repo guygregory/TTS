@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/86177d5c-3cb2-49cd-9da7-a4262ab85200)
 
-This repository contains two Python scripts demonstrating the use of Azure OpenAI's GPT-4o-mini Text-to-Speech (TTS) capabilities:
+This repository contains two Python scripts demonstrating the use of OpenAI's GPT-4o-mini-TTS (Text-to-Speech) model running on Azure OpenAI:
 
 ## Files
 
